@@ -1,4 +1,4 @@
-# jest-funktioner
+# Vitest-funktioner
 
 ## Opgavebeskrivelse
 
